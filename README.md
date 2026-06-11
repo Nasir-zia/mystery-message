@@ -1,4 +1,4 @@
-This project is inspired by the “Chai Aur Code” YouTube channel and aims to present the channel’s content on an interactive and professional website. Users can easily explore videos, subscribe, and follow coding tutorials.
+This project is inspired by the “Chai Aur Code” YouTube channel and aims to present the channel’s content on an interactive and professional website.
 
 The website is built using Next.js to ensure it is fast, SEO-friendly, and responsive while following modern web standards.
 
